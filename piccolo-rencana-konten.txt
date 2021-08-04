@@ -2,7 +2,7 @@ RENCANA KONTEN PICCOLO
 
 - Otomotif
 * modif motor
-* modif mobil
+ ^ modif total
 - Gabut
 - mechanical keyboard
  ^ dasar pengetahuan
