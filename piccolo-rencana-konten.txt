@@ -5,3 +5,4 @@ RENCANA KONTEN PICCOLO
 * modif mobil
 - Gabut
 - mechanical keyboard
+- Room tour
