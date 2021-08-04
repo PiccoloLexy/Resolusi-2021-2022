@@ -5,4 +5,7 @@ RENCANA KONTEN PICCOLO
 * modif mobil
 - Gabut
 - mechanical keyboard
+ ^ dasar pengetahuan
+ ^ asal usul
 - Room tour
+ ^ Membangun ruangan dari awal
